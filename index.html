@@ -12,6 +12,7 @@
     }
     body {
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
 
@@ -19,15 +20,45 @@
       top: 10px;
       left: 10px;
       right: 10px;
-      bottom: 40%;
+      bottom: 20%;
 
       margin: 0;
+      font-family: sans-serif;
+    }
+    .banner {
+    	max-width: 100%;
+    }
+    .link-box {
+        
+    	margin-top: 40px;
+    	text-align: center;
+    	font-size: 80%;
+    }
+    .link-box img {
+        margin: 20px;
+    }    
+    .info-box {
+    	max-width: 100%;
+    	width: 500px;
+    	margin: 40px;
     }
   </style>
 </head>
 <body>
 
-<img src="images/banner.svg" />
+<img class="banner" src="images/banner.svg" />
+
+<div class="info-box">
+<p>A community effort to make radio frequency allocation tables available in a way that makes it
+easy for amateurs and open source projects to consume. The intention is to cover all regions.</p>
+
+<p>This is a work in progress.</p>
+</div>
+
+<div class="link-box">
+  <div><a href="https://github.com/EarthFrequencies"><img src="images/Octicons-mark-github.svg" style="width: 100px"></a></div>
+  <div>Hosted on GitHub</div>
+</div>
 
 </body>
 </html>

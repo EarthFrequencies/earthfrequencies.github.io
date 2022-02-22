@@ -1,5 +1,8 @@
 {
-  "tables": [
+  "meta": {
+
+  },
+  "entries": [
     {
       "name": "-",
       "bands": [

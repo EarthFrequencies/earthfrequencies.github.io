@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkearth_frequencies_webui"]=self["webpackChunkearth_frequencies_webui"]||[]).push([[443],{811:function(e,u,n){n.r(u),n.d(u,{default:function(){return b}});var r=n(6252),a={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),i=[t];function s(e,u){return(0,r.wg)(),(0,r.iD)("div",a,i)}var c=n(3744);const f={},h=(0,c.Z)(f,[["render",s]]);var b=h}}]);
+//# sourceMappingURL=about-legacy.a0317b63.js.map

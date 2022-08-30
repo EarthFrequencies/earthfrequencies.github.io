@@ -1,0 +1,11 @@
+{
+  "name": "ITU Regulated Bands",
+  "id": "itu-regularted-bands",
+  "bands": [{
+    "name": "Regulated Bands",
+    "lf": 3,
+    "uf": 300000000000,
+    "lwl": 10000,
+    "uwl": 100000
+  }]
+}

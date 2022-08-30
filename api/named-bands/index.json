@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "total": 4
+  },
+  "entries": [{
+    "name": "ITU",
+    "id": "itu"
+  }, {
+    "name": "ITU Extended",
+    "id": "itu-plus"
+  }, {
+    "name": "regions",
+    "id": "regions"
+  }, {
+    "name": "ITU Regulated",
+    "id": "itu-regulated"
+  }]
+}

@@ -1,0 +1,1311 @@
+[
+  {
+    "region_code": "ad",
+    "path": "/itu1/eu/ad",
+    "name_en": "Andorra",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ae",
+    "path": "/itu1/ae",
+    "name_en": "United Arab Emirates",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "al",
+    "path": "/itu1/eu/al",
+    "name_en": "Albania",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "am",
+    "path": "/itu1/am",
+    "name_en": "Armenia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ao",
+    "path": "/itu1/ao",
+    "name_en": "Angola",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "at",
+    "path": "/itu1/eu/at",
+    "name_en": "Austria",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "az",
+    "path": "/itu1/eu/az",
+    "name_en": "Azerbaijan",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ba",
+    "path": "/itu1/eu/ba",
+    "name_en": "Bosnia and Herzegovina",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "be",
+    "path": "/itu1/eu/be",
+    "name_en": "Belgium",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "bf",
+    "path": "/itu1/bf",
+    "name_en": "Burkina Faso",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "bg",
+    "path": "/itu1/eu/bg",
+    "name_en": "Bulgaria",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "bh",
+    "path": "/itu1/bh",
+    "name_en": "Bahrain",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "bi",
+    "path": "/itu1/bi",
+    "name_en": "Burundi",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "bj",
+    "path": "/itu1/bj",
+    "name_en": "Benin",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "bw",
+    "path": "/itu1/bw",
+    "name_en": "Botswana",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "by",
+    "path": "/itu1/eu/by",
+    "name_en": "Belarus",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "cf",
+    "path": "/itu1/cf",
+    "name_en": "Central African Republic",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "cg",
+    "path": "/itu1/cg",
+    "name_en": "Republic of the Congo",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ch",
+    "path": "/itu1/eu/ch",
+    "name_en": "Switzerland",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ci",
+    "path": "/itu1/ci",
+    "name_en": "Cote D'Ivoire",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "cm",
+    "path": "/itu1/cm",
+    "name_en": "Cameroon",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "cv",
+    "path": "/itu1/cv",
+    "name_en": "Cape Verde",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "cy",
+    "path": "/itu1/eu/cy",
+    "name_en": "Cyprus",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "cz",
+    "path": "/itu1/eu/cz",
+    "name_en": "Czech Republic",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "de",
+    "path": "/itu1/de",
+    "name_en": "Germany",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "dj",
+    "path": "/itu1/dj",
+    "name_en": "Djibouti",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "dk",
+    "path": "/itu1/eu/dk",
+    "name_en": "Denmark",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "dz",
+    "path": "/itu1/dz",
+    "name_en": "Algeria",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ee",
+    "path": "/itu1/eu/ee",
+    "name_en": "Estonia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "eg",
+    "path": "/itu1/eg",
+    "name_en": "Egypt",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "er",
+    "path": "/itu1/er",
+    "name_en": "Eritrea",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "es",
+    "path": "/itu1/eu/es",
+    "name_en": "Spain",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "et",
+    "path": "/itu1/et",
+    "name_en": "Ethiopia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "fi",
+    "path": "/itu1/eu/fi",
+    "name_en": "Finland",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "fr",
+    "path": "/itu1/eu/fr",
+    "name_en": "France",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ga",
+    "path": "/itu1/ga",
+    "name_en": "Gabon",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "gb",
+    "path": "/itu1/eu/gb",
+    "name_en": "United Kingdom",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ge",
+    "path": "/itu1/eu/ge",
+    "name_en": "Georgia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "gh",
+    "path": "/itu1/gh",
+    "name_en": "Ghana",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "gm",
+    "path": "/itu1/gm",
+    "name_en": "Republic of The Gambia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "gn",
+    "path": "/itu1/gn",
+    "name_en": "Guinea",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "gq",
+    "path": "/itu1/gq",
+    "name_en": "Equatorial Guinea",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "gr",
+    "path": "/itu1/eu/gr",
+    "name_en": "Greece",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "gw",
+    "path": "/itu1/gw",
+    "name_en": "Guinea-Bissau",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "hr",
+    "path": "/itu1/eu/hr",
+    "name_en": "Croatia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "hu",
+    "path": "/itu1/eu/hu",
+    "name_en": "Hungary",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ie",
+    "path": "/itu1/eu/ie",
+    "name_en": "Ireland",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "il",
+    "path": "/itu1/il",
+    "name_en": "Israel",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "iq",
+    "path": "/itu1/iq",
+    "name_en": "Iraq",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "is",
+    "path": "/itu1/eu/is",
+    "name_en": "Iceland",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "it",
+    "path": "/itu1/eu/it",
+    "name_en": "Italy",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "jo",
+    "path": "/itu1/jo",
+    "name_en": "Jordan",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ke",
+    "path": "/itu1/ke",
+    "name_en": "Kenya",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "kg",
+    "path": "/itu1/kg",
+    "name_en": "Kyrgyzstan",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "km",
+    "path": "/itu1/km",
+    "name_en": "Comoros",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "kw",
+    "path": "/itu1/kw",
+    "name_en": "Kuwait",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "lb",
+    "path": "/itu1/lb",
+    "name_en": "Lebanon",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "li",
+    "path": "/itu1/eu/li",
+    "name_en": "Liechtenstein",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "lr",
+    "path": "/itu1/lr",
+    "name_en": "Liberia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ls",
+    "path": "/itu1/ls",
+    "name_en": "Lesotho",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "lt",
+    "path": "/itu1/eu/lt",
+    "name_en": "Lithuania",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "lu",
+    "path": "/itu1/eu/lu",
+    "name_en": "Luxembourg",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "lv",
+    "path": "/itu1/eu/lv",
+    "name_en": "Latvia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ly",
+    "path": "/itu1/ly",
+    "name_en": "Libya",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ma",
+    "path": "/itu1/eu/ma",
+    "name_en": "Morocco",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "mc",
+    "path": "/itu1/eu/mc",
+    "name_en": "Monaco",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "md",
+    "path": "/itu1/eu/md",
+    "name_en": "Moldova, Republic of",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "me",
+    "path": "/itu1/eu/me",
+    "name_en": "Montenegro",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "mg",
+    "path": "/itu1/mg",
+    "name_en": "Madagascar",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ml",
+    "path": "/itu1/ml",
+    "name_en": "Mali",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "mn",
+    "path": "/itu1/mn",
+    "name_en": "Mongolia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "mr",
+    "path": "/itu1/mr",
+    "name_en": "Mauritania",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "mt",
+    "path": "/itu1/mt",
+    "name_en": "Malta",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "mu",
+    "path": "/itu1/mu",
+    "name_en": "Mauritius",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "mw",
+    "path": "/itu1/mw",
+    "name_en": "Malawi",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "mz",
+    "path": "/itu1/mz",
+    "name_en": "Mozambique",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "na",
+    "path": "/itu1/na",
+    "name_en": "Namibia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ne",
+    "path": "/itu1/ne",
+    "name_en": "Niger",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ng",
+    "path": "/itu1/ng",
+    "name_en": "Nigeria",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "nl",
+    "path": "/itu1/eu/nl",
+    "name_en": "Netherlands",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "no",
+    "path": "/itu1/eu/no",
+    "name_en": "Norway",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "om",
+    "path": "/itu1/om",
+    "name_en": "Oman",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "pl",
+    "path": "/itu1/eu/pl",
+    "name_en": "Poland",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "pt",
+    "path": "/itu1/eu/pt",
+    "name_en": "Portugal",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "qa",
+    "path": "/itu1/qa",
+    "name_en": "Qatar",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ro",
+    "path": "/itu1/eu/ro",
+    "name_en": "Romania",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "rs",
+    "path": "/itu1/eu/rs",
+    "name_en": "Serbia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ru",
+    "path": "/itu1/eu/ru",
+    "name_en": "Russian Federation",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "rw",
+    "path": "/itu1/rw",
+    "name_en": "Rwanda",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "sa",
+    "path": "/itu1/sa",
+    "name_en": "Saudi Arabia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "sd",
+    "path": "/itu1/sd",
+    "name_en": "Sudan",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "se",
+    "path": "/itu1/eu/se",
+    "name_en": "Sweden",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "si",
+    "path": "/itu1/eu/si",
+    "name_en": "Slovenia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "sk",
+    "path": "/itu1/eu/sk",
+    "name_en": "Slovakia",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "sl",
+    "path": "/itu1/sl",
+    "name_en": "Sierra Leone",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "sm",
+    "path": "/itu1/eu/sm",
+    "name_en": "San Marino",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "sn",
+    "path": "/itu1/sn",
+    "name_en": "Senegal",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "so",
+    "path": "/itu1/so",
+    "name_en": "Somalia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "st",
+    "path": "/itu1/st",
+    "name_en": "Sao Tome and Principe",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "sy",
+    "path": "/itu1/sy",
+    "name_en": "Syrian Arab Republic",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "sz",
+    "path": "/itu1/sz",
+    "name_en": "Eswatini",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "td",
+    "path": "/itu1/td",
+    "name_en": "Chad",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "tg",
+    "path": "/itu1/tg",
+    "name_en": "Togo",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "tj",
+    "path": "/itu1/tj",
+    "name_en": "Tajikistan",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "tm",
+    "path": "/itu1/tm",
+    "name_en": "Turkmenistan",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "tn",
+    "path": "/itu1/tn",
+    "name_en": "Tunisia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "tr",
+    "path": "/itu1/eu/tr",
+    "name_en": "Turkey",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "tz",
+    "path": "/itu1/tz",
+    "name_en": "United Republic of Tanzania",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ua",
+    "path": "/itu1/eu/ua",
+    "name_en": "Ukraine",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ug",
+    "path": "/itu1/ug",
+    "name_en": "Uganda",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "uz",
+    "path": "/itu1/uz",
+    "name_en": "Uzbekistan",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "va",
+    "path": "/itu1/eu/va",
+    "name_en": "Holy See (Vatican City State)",
+    "itu_region": "itu1",
+    "cept_member": true
+  },
+  {
+    "region_code": "ye",
+    "path": "/itu1/ye",
+    "name_en": "Yemen",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "za",
+    "path": "/itu1/za",
+    "name_en": "South Africa",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "zm",
+    "path": "/itu1/zm",
+    "name_en": "Zambia",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "zw",
+    "path": "/itu1/zw",
+    "name_en": "Zimbabwe",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "ag",
+    "path": "/itu2/ag",
+    "name_en": "Antigua and Barbuda",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "ar",
+    "path": "/itu2/ar",
+    "name_en": "Argentina",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "bb",
+    "path": "/itu2/bb",
+    "name_en": "Barbados",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "bo",
+    "path": "/itu2/bo",
+    "name_en": "Bolivia",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "br",
+    "path": "/itu2/br",
+    "name_en": "Brazil",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "bs",
+    "path": "/itu2/bs",
+    "name_en": "Bahamas",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "bz",
+    "path": "/itu2/bz",
+    "name_en": "Belize",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "ca",
+    "path": "/itu2/ca",
+    "name_en": "Canada",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "cl",
+    "path": "/itu2/cl",
+    "name_en": "Chile",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "co",
+    "path": "/itu2/co",
+    "name_en": "Colombia",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "cr",
+    "path": "/itu2/cr",
+    "name_en": "Costa Rica",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "cu",
+    "path": "/itu2/cu",
+    "name_en": "Cuba",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "dm",
+    "path": "/itu2/dm",
+    "name_en": "Dominica",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "do",
+    "path": "/itu2/do",
+    "name_en": "Dominican Republic",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "ec",
+    "path": "/itu2/ec",
+    "name_en": "Ecuador",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "gd",
+    "path": "/itu2/gd",
+    "name_en": "Grenada",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "gt",
+    "path": "/itu2/gt",
+    "name_en": "Guatemala",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "gy",
+    "path": "/itu2/gy",
+    "name_en": "Guyana",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "hn",
+    "path": "/itu2/hn",
+    "name_en": "Honduras",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "ht",
+    "path": "/itu2/ht",
+    "name_en": "Haiti",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "jm",
+    "path": "/itu2/jm",
+    "name_en": "Jamaica",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "mx",
+    "path": "/itu2/mx",
+    "name_en": "Mexico",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "ni",
+    "path": "/itu2/ni",
+    "name_en": "Nicaragua",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "pa",
+    "path": "/itu2/pa",
+    "name_en": "Panama",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "pe",
+    "path": "/itu2/pe",
+    "name_en": "Peru",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "py",
+    "path": "/itu2/py",
+    "name_en": "Paraguay",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "sr",
+    "path": "/itu2/sr",
+    "name_en": "Suriname",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "sv",
+    "path": "/itu2/sv",
+    "name_en": "El Salvador",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "tt",
+    "path": "/itu2/tt",
+    "name_en": "Trinidad and Tobago",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "us",
+    "path": "/itu2/us",
+    "name_en": "United States of America",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "uy",
+    "path": "/itu2/uy",
+    "name_en": "Uruguay",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "vc",
+    "path": "/itu2/vc",
+    "name_en": "Saint Vincent and the Grenadines",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "ve",
+    "path": "/itu2/ve",
+    "name_en": "Venezuela",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "af",
+    "path": "/itu3/af",
+    "name_en": "Afghanistan",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "au",
+    "path": "/itu3/au",
+    "name_en": "Australia",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "bd",
+    "path": "/itu3/bd",
+    "name_en": "Bangladesh",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "bn",
+    "path": "/itu3/bn",
+    "name_en": "Brunei Darussalam",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "bt",
+    "path": "/itu3/bt",
+    "name_en": "Bhutan",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "cn",
+    "path": "/itu3/cn",
+    "name_en": "People's Republic of China",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "fj",
+    "path": "/itu3/fj",
+    "name_en": "Fiji",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "fm",
+    "path": "/itu3/fm",
+    "name_en": "Micronesia, Federated States of",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "id",
+    "path": "/itu3/id",
+    "name_en": "Indonesia",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "in",
+    "path": "/itu3/in",
+    "name_en": "India",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "ir",
+    "path": "/itu3/ir",
+    "name_en": "Islamic Republic of Iran",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "jp",
+    "path": "/itu3/jp",
+    "name_en": "Japan",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "kh",
+    "path": "/itu3/kh",
+    "name_en": "Cambodia",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "ki",
+    "path": "/itu3/ki",
+    "name_en": "Kiribati",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "kp",
+    "path": "/itu3/kp",
+    "name_en": "North Korea",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "la",
+    "path": "/itu3/la",
+    "name_en": "Lao People's Democratic Republic",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "lk",
+    "path": "/itu3/lk",
+    "name_en": "Sri Lanka",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "mh",
+    "path": "/itu3/mh",
+    "name_en": "Marshall Islands",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "mm",
+    "path": "/itu3/mm",
+    "name_en": "Myanmar",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "mv",
+    "path": "/itu3/mv",
+    "name_en": "Maldives",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "my",
+    "path": "/itu3/my",
+    "name_en": "Malaysia",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "np",
+    "path": "/itu3/np",
+    "name_en": "Nepal",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "nr",
+    "path": "/itu3/nr",
+    "name_en": "Nauru",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "nz",
+    "path": "/itu3/nz",
+    "name_en": "New Zealand",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "pg",
+    "path": "/itu3/pg",
+    "name_en": "Papua New Guinea",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "ph",
+    "path": "/itu3/ph",
+    "name_en": "Philippines",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "pk",
+    "path": "/itu3/pk",
+    "name_en": "Pakistan",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "sb",
+    "path": "/itu3/sb",
+    "name_en": "Solomon Islands",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "sg",
+    "path": "/itu3/sg",
+    "name_en": "Singapore",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "th",
+    "path": "/itu3/th",
+    "name_en": "Thailand",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "to",
+    "path": "/itu3/to",
+    "name_en": "Tonga",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "tv",
+    "path": "/itu3/tv",
+    "name_en": "Tuvalu",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "vn",
+    "path": "/itu3/vn",
+    "name_en": "Vietnam",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "vu",
+    "path": "/itu3/vu",
+    "name_en": "Vanuatu",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "ws",
+    "path": "/itu3/ws",
+    "name_en": "Samoa",
+    "itu_region": "itu3",
+    "cept_member": false
+  },
+  {
+    "region_code": "itu1",
+    "path": "/itu1",
+    "name_en": "ITU Region 1",
+    "itu_region": "itu1",
+    "cept_member": false
+  },
+  {
+    "region_code": "itu2",
+    "path": "/itu2",
+    "name_en": "ITU Region 2",
+    "itu_region": "itu2",
+    "cept_member": false
+  },
+  {
+    "region_code": "itu3",
+    "path": "/itu3",
+    "name_en": "ITU Region 3",
+    "itu_region": "itu3",
+    "cept_member": false
+  }
+]

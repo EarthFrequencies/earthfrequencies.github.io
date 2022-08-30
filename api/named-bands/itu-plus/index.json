@@ -1,0 +1,145 @@
+{
+  "name": "ITU Plus",
+  "id": "itu-plus",
+  "bands": [{
+    "name": "Tremendously low frequency",
+    "abbreviation": "TLF",
+    "lf": 0,
+    "uf": 3,
+    "lwl": 10000,
+    "uwl": 100000
+  }, {
+    "name": "Extremely low frequency",
+    "abbreviation": "ELF",
+    "lf": 3,
+    "uf": 30,
+    "lwl": 10000,
+    "uwl": 100000
+  }, {
+    "name": "Super low frequency",
+    "abbreviation": "SLF",
+    "lf": 30,
+    "uf": 300,
+    "lwl": 1000,
+    "uwl": 10000
+  }, {
+    "name": "Ultra low frequency",
+    "abbreviation": "ULF",
+    "lf": 300,
+    "uf": 3000,
+    "lwl": 100,
+    "uwl": 1000
+  }, {
+    "name": "Very low frequency",
+    "abbreviation": "VLF",
+    "lf": 3000,
+    "uf": 30000,
+    "lwl": 10,
+    "uwl": 100
+  }, {
+    "name": "Low frequency",
+    "abbreviation": "LF",
+    "lf": 30000,
+    "uf": 300000,
+    "lwl": 1,
+    "uwl": 10
+  }, {
+    "name": "Medium frequency",
+    "abbreviation": "MF",
+    "lf": 300000,
+    "uf": 3000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "High frequency",
+    "abbreviation": "HF",
+    "lf": 3000000,
+    "uf": 30000000,
+    "lwl": 0.1,
+    "uwl": 1
+  },  {
+    "name": "Very high frequency",
+    "abbreviation": "VHF",
+    "lf": 30000000,
+    "uf": 300000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Ultra hight frequency",
+    "abbreviation": "UHF",
+    "lf": 300000000,
+    "uf": 3000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Super high frequency",
+    "abbreviation": "SHF",
+    "lf": 3000000000,
+    "uf": 30000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Exremely high frequency",
+    "abbreviation": "SHF",
+    "lf": 30000000000,
+    "uf": 300000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Far Infrared",
+    "abbreviation": "FIR",
+    "lf": 300000000000,
+    "uf": 3000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Mid Infrared",
+    "abbreviation": "MIR",
+    "lf": 3000000000000,
+    "uf": 30000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Near Infrared",
+    "abbreviation": "NIR",
+    "lf": 30000000000000,
+    "uf": 300000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Near Ultraviolet Visible",
+    "abbreviation": "NUV",
+    "lf": 300000000000000,
+    "uf": 3000000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Extreme Ultraviolet",
+    "abbreviation": "EUV",
+    "lf": 3000000000000000,
+    "uf": 30000000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Soft X-Rays",
+    "abbreviation": "SX",
+    "lf": 30000000000000000,
+    "uf": 300000000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Hard X-Rays",
+    "abbreviation": "HX",
+    "lf": 300000000000000000,
+    "uf": 3000000000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }, {
+    "name": "Gamma-Ray",
+    "abbreviation": "Y",
+    "lf": 3000000000000000000,
+    "uf": 30000000000000000000,
+    "lwl": 0.1,
+    "uwl": 1
+  }]
+}

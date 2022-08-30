@@ -1,0 +1,47 @@
+{
+  "name": "ITU Named Bands",
+  "id": "itu-named-bands",
+  "bands": [{
+    "name": "Extremely low frequency",
+    "abbreviation": "ELF",
+    "lf": 3,
+    "uf": 30,
+    "lwl": 10000,
+    "uwl": 100000
+  }, {
+    "name": "Super low frequency",
+    "abbreviation": "SLF",
+    "lf": 30,
+    "uf": 300,
+    "lwl": 1000,
+    "uwl": 10000
+  }, {
+    "name": "Ultra low frequency",
+    "abbreviation": "ULF",
+    "lf": 300,
+    "uf": 3000,
+    "lwl": 100,
+    "uwl": 1000
+  }, {
+    "name": "Very low frequency",
+    "abbreviation": "VLF",
+    "lf": 3000,
+    "uf": 30000,
+    "lwl": 10,
+    "uwl": 100
+  }, {
+    "name": "Low frequency",
+    "abbreviation": "LF",
+    "lf": 300,
+    "uf": 3000,
+    "lwl": 1,
+    "uwl": 10
+  }, {
+    "name": "Medium frequency",
+    "abbreviation": "MF",
+    "lf": 3000,
+    "uf": 30000,
+    "lwl": 0.1,
+    "uwl": 1
+  }]
+}
